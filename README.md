@@ -1,8 +1,5 @@
-## Hi there 👋
 
-Background GIF by Aliciel on Pinterest.
-
-Twitter/X   LinkedIn   Gmail
+[Twitter/X](https://x.com/jigga_byte)   [LinkedIn]()  [Gmail](mailto:://jigga.e10@gmail.com)
 
 🔭 I’m currently working as a Consultant, working on a Python / React app and a Java / Angular app contract.
 🌱 I’m passionate about Fullstack and AI, especially LLMs.
