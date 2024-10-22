@@ -1,5 +1,5 @@
-
-[Twitter/X](https://x.com/jigga_byte)   [LinkedIn]()  [Gmail](mailto:://jigga.e10@gmail.com)
+# Fullstack (AI/Mobile/Desktop/Web/Games) Software Engineer.
+[Twitter/X](https://x.com/jigga_byte)   [LinkedIn](https://linkedin.com/in/sixtusonuma213)  [Gmail](mailto://jigga.e10@gmail.com)
 
 🔭 I’m currently working as a Consultant, working on a Python / React app and a Java / Angular app contract.
 🌱 I’m passionate about Fullstack and AI, especially LLMs.
