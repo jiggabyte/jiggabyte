@@ -1,16 +1,20 @@
-# Fullstack (AI/Mobile/Desktop/Web/Games) Software Engineer.
+# Fullstack Software Engineer.
+
 [Twitter/X](https://x.com/jigga_byte)   [LinkedIn](https://linkedin.com/in/sixtusonuma213)  [Gmail](mailto://jigga.e10@gmail.com)
 
-🔭 I’m currently working as a Consultant, working on a Python / React app and a Java / Angular app contract.
+🔭 I’m currently working as a Consultant on a Python / React app and a Java / Angular app contract.
 🌱 I’m passionate about Fullstack and AI, especially LLMs.
-📝 I aim to build an AI solution that will guide the blind and also prevent crime.
+📝 I aim to build an AI solution to guide the blind and prevent crime.
 🏆 I'm striving to increase my GitHub stats rating by contributing to open source.
 ⚡ Fun fact: I read knowledge from multiple sources, not just books as knowledge is everywhere!
 💡 A Quote:
 A random quote
 
 💻 My Tech Stack:
-Java, PHP, Python, Node.js, JavaScript, TypeScript, AWS, GCP, Angular (Ionic / Electron), React (Native) Android (Java), AI
+Java, PHP, Python, Node.js,
+JavaScript, TypeScript, AWS,
+GCP, Angular (Ionic / Electron),
+React (Native) Android (Java), AI
 
 📖 Read My Blogs:
 
