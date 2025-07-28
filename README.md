@@ -1,4 +1,4 @@
-# Fullstack Software Engineer.
+# Software Engineer.
 
 [Twitter/X](https://x.com/jigga_byte)   [LinkedIn](https://linkedin.com/in/sixtusonuma213)  [Gmail](mailto://jigga.e10@gmail.com)
 
