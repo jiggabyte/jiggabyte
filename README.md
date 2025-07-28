@@ -1,9 +1,9 @@
 # Software Engineer.
 
-[Twitter/X](https://x.com/jigga_byte)   [LinkedIn](https://linkedin.com/in/sixtusonuma213)  [Gmail](mailto://jigga.e10@gmail.com)
+[Twitter/X](https://x.com/jigga_byte)   [LinkedIn](https://linkedin.com/in/sixtusonuma)  [Gmail](mailto://jigga.e10@gmail.com)
 
-🔭 I’m currently working as a Consultant on a Python / React app and a Java / Angular app contract.
-🌱 I’m passionate about Fullstack, Cross-Platform, and AI, especially LLMs.
+🔭 I’m currently building and studying software.
+🌱 I’m passionate about Fullstack, Mobile, Cross-Platform, and AI, especially LLMs.
 📝 I aim to build an AI solution to guide the blind and prevent crime.
 🏆 I'm striving to increase my GitHub stats rating by contributing to open source.
 ⚡ Fun fact: I read knowledge from multiple sources, not just books as knowledge is everywhere!
