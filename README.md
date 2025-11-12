@@ -8,7 +8,7 @@
 🏆 I'm striving to increase my GitHub stats rating by contributing to open source.
 ⚡ Fun fact: I read knowledge from multiple sources, not just books as knowledge is everywhere!
 💡 A Quote:
-A random quote
+"When you go to Rome, roam around" - Anonymous
 
 💻 My Tech Stack:
 Java, PHP, Python, Node.js
